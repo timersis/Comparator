@@ -119,7 +119,6 @@ EXIT /B 0
 	ECHO.
 	ECHO ========================
 	ECHO           xxx
-	ECHO 	 RAKIPI ALEXANDROS
 	ECHO           yyy
 	ECHO ========================
 	timeout 30
