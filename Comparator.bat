@@ -119,6 +119,7 @@ EXIT /B 0
 	ECHO.
 	ECHO ========================
 	ECHO           xxx
+	ECHO	     timersis
 	ECHO           yyy
 	ECHO ========================
 	timeout 30
